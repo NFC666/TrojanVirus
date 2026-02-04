@@ -1,5 +1,5 @@
 <Solution>
-  <Project Path="VirusSignal.Client/VirusSignal.Client.csproj" Id="c33be114-1eb0-4ca3-bbd1-e15b16d00722" />
-  <Project Path="VirusSignal.Master/VirusSignal.Master.csproj" Id="617a2f01-4d58-4fe8-a3da-0280856c29b5" />
+  <Project Path="VirusSignal.Client/VirusSignalR.Client.csproj" Id="c33be114-1eb0-4ca3-bbd1-e15b16d00722" />
+  <Project Path="VirusSignal.Master/VirusSignalR.Master.csproj" Id="617a2f01-4d58-4fe8-a3da-0280856c29b5" />
   <Project Path="VirusSignalR.Server/VirusSignalR.Server.csproj" Id="26726d3b-b3f4-4af9-90dc-220135912c90" />
 </Solution>

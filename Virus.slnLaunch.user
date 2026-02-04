@@ -7,11 +7,11 @@
         "Action": "Start"
       },
       {
-        "Path": "VirusSignal.Client\\VirusSignal.Client.csproj",
+        "Path": "VirusSignal.Client\\VirusSignalR.Client.csproj",
         "Action": "Start"
       },
       {
-        "Path": "VirusSignal.Master\\VirusSignal.Master.csproj",
+        "Path": "VirusSignal.Master\\VirusSignalR.Master.csproj",
         "Action": "Start"
       }
     ]
